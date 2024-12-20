@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./app1.css"; 
+import "./app1.css"; // Include styles for the app
 
 const App1 = () => {
   const [expression, setExpression] = useState("");
